@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i.ibb.co.com/XtFnJwf/40097951.png",
+      "review": "An unpredictable psychological thriller that keeps you guessing until the very last page.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 2,
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "image": "https://i.ibb.co.com/C70sfQd/35133922.jpg",
+      "review": "A deeply moving memoir about resilience, self-discovery, and the pursuit of knowledge.",
+      "totalPages": 334,
+      "rating": 4.7,
+      "category": "Biography",
+      "tags": ["Inspiration", "Memoir"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 3,
+      "bookName": "Atomic Habits",
+      "author": "James Clear",
+      "image": "https://i.ibb.co.com/tKwsgTY/61-M6-Kz-Ubf7-L-AC-UF1000-1000-QL80.jpg",
+      "review": "An insightful guide to building better habits through small, actionable changes.",
+      "totalPages": 320,
+      "rating": 4.8,
+      "category": "Self-Help",
+      "tags": ["Productivity", "Motivation"],
+      "publisher": "Avery",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 4,
+      "bookName": "Becoming",
+      "author": "Michelle Obama",
+      "image": "https://i.ibb.co.com/2KLRg4F/MV5-BZDk2-YTAy-ODMt-Nzg3-Yi00-OGIz-LTk5-YWQt-Zm-Fh-OWM3-Yz-I0-Ym-Ex-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
+      "review": "An intimate and inspiring memoir from the former First Lady of the United States.",
+      "totalPages": 448,
+      "rating": 4.9,
+      "category": "Autobiography",
+      "tags": ["Leadership", "Inspiration"],
+      "publisher": "Crown Publishing Group",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 5,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co.com/27W8jKm/81-Yxj-Lkc-Ad-L-UF1000-1000-QL80.jpg",
+      "review": "A haunting dystopian classic that explores the dangers of totalitarianism and surveillance.",
+      "totalPages": 328,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://i.ibb.co.com/CQQ1s2g/18144590.jpg",
+      "review": "A magical and inspiring tale about following your dreams and discovering your purpose.",
+      "totalPages": 208,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Adventure", "Philosophy"],
+      "publisher": "HarperOne",
+      "yearOfPublishing": 1988
+    }
+  ]
+  

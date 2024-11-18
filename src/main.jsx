@@ -10,6 +10,7 @@ import Root from './Component/Root/Root.jsx';
 import Home from './Component/Home/Home.jsx';
 import ListedBook from './Component/ListedBook/ListedBook.jsx';
 import Pagetoread from './Component/Page to read/Pagetoread.jsx';
+import Books from './Component/Books/Books.jsx';
 
 const router = createBrowserRouter([
   {
@@ -27,7 +28,7 @@ const router = createBrowserRouter([
       {
         path:'/pagetoread',
         element:<Pagetoread></Pagetoread>
-      }
+      },
     ]
   },
 ]);
